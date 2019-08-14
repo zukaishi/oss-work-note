@@ -2,7 +2,13 @@
 OSS開発を行う際のメモ
 
 # OSSを決める
-1. 普段使用しているもの
+1. 普段使用しているものから決める
+
+2. libを眺めて決める
+https://github.com/sindresorhus/awesome
+
+3. 比較的初心者がとっつ生きやすいlabelが貼ってあるものから決める
+https://qiita.com/gotchane/items/69c332b2e67b9e20c378
 
 
 # 手順
